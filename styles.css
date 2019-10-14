@@ -8,8 +8,25 @@ body {
     }
   }
 
-#intro {
+#icons {
     width: 60%;
     margin-left: 15%;
     margin-right: 15%;
+}
+
+#tasks-area {
+  color: purple
+}
+
+#task-button {
+  color: purple;
+  float: right;
+}
+
+#todo-dot {
+  color: red
+}
+
+#done-dot {
+  color: green
 }
