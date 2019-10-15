@@ -3,3 +3,4 @@ Number of tasks to be completed
 List length, and therefore space required for to do and completed
 Removing deleted items
 Completed and delete buttons (icons) need to cause actions
+Variable length of task description
